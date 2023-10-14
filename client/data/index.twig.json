@@ -1,6 +1,8 @@
 {
   "title":"Angèle - Accor Arena",
   "description":"Retrouvez les prochaines dates de concert d'Angèle à l'Accor Arena",
+  "startDate": "2021-01-21T19:00-05:00",
+  "endDate": "2021-01-27T19:00-05:00",
   "hero_card": {
     "title":"Angèle",
     "cover":"../assets/img/tmp/cover-full.png",

@@ -1,4 +1,31 @@
         
         <title>{{ title }}</title>
+        <meta name="description" content="{{ description }}" />
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "{{ title }}",
+        "startDate": "{{ startDate }}",
+        "endDate": "{{ endDate }}",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+                "@type": "Place",
+                "name": "Accor Arena",
+                "address": "8 Bd de Bercy",
+                "@type": "PostalAddress",
+                "streetAddress": "8 Bd de Bercy",
+                "addressLocality": "Paris",
+                "postalCode": "75012",
+                "addressCountry": "FR"
+                }
+        },
+        "image": [
+                "{{hero_card.cover}}"
+        ],
+        "description": "{{hero_card.subtitle}}"
+        }
+        </script>
         
         {% include "../includes/styles.twig" %}
