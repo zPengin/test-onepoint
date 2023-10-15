@@ -9,12 +9,12 @@
         display: flex;
         align-items: center;
         gap: pxtorem(10);
-        margin-bottom: pxtorem(30);
+        margin-bottom: pxtorem(22);
         font-size: $font-size-title-xs;
         @include media-breakpoint-up(md) {
             font-size: $font-size-xs;
             gap: pxtorem(20);
-            margin-bottom: pxtorem(40);
+            margin-bottom: pxtorem(20);
         }
     }
 }

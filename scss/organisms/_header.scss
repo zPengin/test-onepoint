@@ -85,15 +85,18 @@ $header-height: 5rem;
             font-size: $font-size-xs;
             justify-content: center;
             height: pxtorem(60);
+            outline: 2px solid transparent;
+            outline-offset: pxtorem(2);
             text-decoration: none;
-            width: pxtorem(60);
             transition: $transition-base;
+            width: pxtorem(60);
             svg {
                 height: pxtorem(32);
                 width: pxtorem(32);
             }
             &:hover, &:focus {
                 background-color: $light-black;
+                outline-color: $light-black;
             }
             &--burger {
                 flex-direction: column;

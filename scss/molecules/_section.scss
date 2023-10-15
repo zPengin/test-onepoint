@@ -24,5 +24,9 @@
     }
     &__footer {
         text-align: center;
+        padding-top: pxtorem(18);
+        @include media-breakpoint-up(md) {
+            padding-top: pxtorem(32);
+        }
     }
 }
