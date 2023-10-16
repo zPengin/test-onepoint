@@ -5,8 +5,8 @@
   "endDate": "2021-01-27T19:00-05:00",
   "hero_card": {
     "title":"Angèle",
-    "cover":"../assets/img/tmp/cover-full.png",
-    "album":"../assets/img/tmp/album.png",
+    "cover":"assets/img/tmp/cover-full.png",
+    "album":"assets/img/tmp/album.png",
     "date": "24 au 27 janvier 2021",
     "subtitle": "Exclusivité en France !",
     "links": [
@@ -31,7 +31,7 @@
       {
         "title":"Angèle - Brol Tour",
         "description":"Roméo Elvis en première partie",
-        "image":"../assets/img/tmp/calendar.png",
+        "image":"assets/img/tmp/calendar.png",
         "date": "25 JANVIER 2020",
         "info": "19h30",
         "link_text": "Je réserve",
@@ -40,7 +40,7 @@
       {
         "title":"Angèle - Brol Tour",
         "description":"Roméo Elvis en première partie",
-        "image":"../assets/img/tmp/calendar.png",
+        "image":"assets/img/tmp/calendar.png",
         "date": "25 JANVIER 2020",
         "info": "19h30",
         "link_text": "Infos",
@@ -49,7 +49,7 @@
       {
         "title":"Angèle - Brol Tour",
         "description":"Roméo Elvis en première partie",
-        "image":"../assets/img/tmp/calendar.png",
+        "image":"assets/img/tmp/calendar.png",
         "date": "25 JANVIER 2020",
         "info": "19h30",
         "link_text": "Annulé",
@@ -58,7 +58,7 @@
       {
         "title":"Angèle - Brol Tour",
         "description":"Roméo Elvis en première partie",
-        "image":"../assets/img/tmp/calendar.png",
+        "image":"assets/img/tmp/calendar.png",
         "date": "25 JANVIER 2020",
         "info": "19h30",
         "link_text": "Liste d'attente",
@@ -72,21 +72,21 @@
       {
         "title":"Offre",
         "description":"Texte Regular // Hac ex causa conlaticia stipe Valerius humatur ille Publicola et subsidiis amicorum mariti inops. ",
-        "image":"../assets/img/tmp/offer.jpg",
+        "image":"assets/img/tmp/offer.jpg",
         "link_text": "Je découvre",
         "link_url": "#"
       },
       {
         "title":"Offre",
         "description":"Texte Regular // Hac ex causa conlaticia stipe Valerius humatur ille Publicola et subsidiis amicorum mariti inops. ",
-        "image":"../assets/img/tmp/offer.jpg",
+        "image":"assets/img/tmp/offer.jpg",
         "link_text": "Je découvre",
         "link_url": "#"
       },
       {
         "title":"Offre",
         "description":"Texte Regular // Hac ex causa conlaticia stipe Valerius humatur ille Publicola et subsidiis amicorum mariti inops. ",
-        "image":"../assets/img/tmp/offer.jpg",
+        "image":"assets/img/tmp/offer.jpg",
         "link_text": "Je découvre",
         "link_url": "#"
       }
@@ -97,32 +97,32 @@
     "list": [
       {
         "description":"Texte Regular // Hac ex causa conlaticia stipe Valerius humatur",
-        "icon":"../assets/img/tmp/icon-list.svg",
+        "icon":"assets/img/tmp/icon-list.svg",
         "icon-title":"Icon cube"
       },
       {
         "description":"Texte Regular // Hac ex causa conlaticia stipe Valerius humatur",
-        "icon":"../assets/img/tmp/icon-list.svg",
+        "icon":"assets/img/tmp/icon-list.svg",
         "icon-title":"Icon cube"
       },
       {
         "description":"Texte Regular // Hac ex causa conlaticia stipe Valerius humatur",
-        "icon":"../assets/img/tmp/icon-list.svg",
+        "icon":"assets/img/tmp/icon-list.svg",
         "icon-title":"Icon cube"
       },
       {
         "description":"Texte Regular // Hac ex causa conlaticia stipe Valerius humatur",
-        "icon":"../assets/img/tmp/icon-list.svg",
+        "icon":"assets/img/tmp/icon-list.svg",
         "icon-title":"Icon cube"
       },
       {
         "description":"Texte Regular // Hac ex causa conlaticia stipe Valerius humatur",
-        "icon":"../assets/img/tmp/icon-list.svg",
+        "icon":"assets/img/tmp/icon-list.svg",
         "icon-title":"Icon cube"
       },
       {
         "description":"Texte Regular // Hac ex causa conlaticia stipe Valerius humatur",
-        "icon":"../assets/img/tmp/icon-list.svg",
+        "icon":"assets/img/tmp/icon-list.svg",
         "icon-title":"Icon cube"
       }
       ]
@@ -134,12 +134,12 @@
       {
         "title": "Production",
         "description":"Hac ex causa conlaticia stipe Valerius humatur. Hac ex causa conlaticia stipe Valerius.",
-        "image":"../assets/img/tmp/accorarena-prod.png"
+        "image":"assets/img/tmp/accorarena-prod.png"
       },
       {
         "title": "Production",
         "description":"Hac ex causa conlaticia stipe Valerius humatur. Hac ex causa conlaticia stipe Valerius.",
-        "image":"../assets/img/tmp/accorarena-prod.png"
+        "image":"assets/img/tmp/accorarena-prod.png"
       }
       ]
   }
